@@ -1,0 +1,4 @@
+config/env.php
+storage/*.json
+uploads/products/u*
+.DS_Store
