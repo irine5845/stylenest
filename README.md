@@ -1,4 +1,6 @@
 # StyleNest: fashion e-commerce website
+<img width="1536" height="1024" alt="StyleNest Fashion Website Hero Mockup" src="https://github.com/user-attachments/assets/b00d8939-e2d5-4f55-ad61-b7c145a468a8" />
+
 
 A PHP and MySQL online fashion store with a customer storefront, shopping cart, checkout,
 M-Pesa (Daraja STK Push) and cash on delivery, customer accounts, order tracking and an
